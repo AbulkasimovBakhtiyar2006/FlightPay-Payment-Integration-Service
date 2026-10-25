@@ -2,5 +2,6 @@
   <Folder Name="/src/">
     <Project Path="src/FlightPay.Application/FlightPay.Application.csproj" />
     <Project Path="src/FlightPay.Domain/FlightPay.Domain.csproj" />
+    <Project Path="src/FlightPay.Infrastructure/FlightPay.Infrastructure.csproj" />
   </Folder>
 </Solution>
