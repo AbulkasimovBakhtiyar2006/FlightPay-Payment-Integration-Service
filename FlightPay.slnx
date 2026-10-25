@@ -5,4 +5,7 @@
     <Project Path="src/FlightPay.Domain/FlightPay.Domain.csproj" />
     <Project Path="src/FlightPay.Infrastructure/FlightPay.Infrastructure.csproj" />
   </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/FlightPay.UnitTests/FlightPay.UnitTests.csproj" />
+  </Folder>
 </Solution>
